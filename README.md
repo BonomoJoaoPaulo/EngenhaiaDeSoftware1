@@ -14,7 +14,7 @@ Apesar da parte de modelagem não interessar à maioria das pessoas, ela está p
 
 Como jogar
 
-O guia, bem como a referência principal, para nosso desenvolvimento foi o vídeo do canal no youtube 'VemKaJogar', que contém as explicações necessárias para que você aprenda a jogar Trilha Alemã. O vídeo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=CcguxMBqx-A&t=217s
+O guia, bem como a referência principal, para nosso desenvolvimento foi o vídeo do canal no youtube 'VemKaJogar', que contém as explicações necessárias para que você aprenda a jogar Trilha Alemã. O vídeo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=CcguxMBqx-A&t=217s.
 Caso você seja um programador, terá facilidade em seguir o passo a passo descrito no arquivo de texto 'HowToRunGame.md' presente neste repositório, seja um usuário de Windows ou de Linux - sistema operacional em que usamos para desenvolver o jogo. Do contrário, não se preocupe, há uma versão executável (que funciona apenas para windows) presente na pasta 'executavel'.
 Caso não tenha um amigo para jogar - :( -, é possivel jogar contra si mesmo, bastando abrir o jogo duas vezes, iniciando a partida com um dos jogos abertos e aceitando a partida com o outro.
 
